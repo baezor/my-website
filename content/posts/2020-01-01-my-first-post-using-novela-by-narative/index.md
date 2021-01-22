@@ -6,8 +6,6 @@ hero: ./images/hero.jpg
 excerpt: This is the style guide. You can find all the styles and rules of my blog. 
 ---
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
-
 ## Headers
 
 # H1
