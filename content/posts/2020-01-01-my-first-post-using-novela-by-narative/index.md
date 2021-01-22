@@ -1,9 +1,9 @@
 ---
-title: My first post using Novela by Narative
-author: Dennis Brotzky
-date: 2019-04-30
+title: Style Guide
+author: Angel Baez
+date: 2021-01-01
 hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+excerpt: This is the style guide. You can find all the styles and rules of my blog. 
 ---
 
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
