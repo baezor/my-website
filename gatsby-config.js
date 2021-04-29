@@ -3,23 +3,15 @@ module.exports = {
     title: `Angel Baez`,
     name: `Angel Baez`,
     siteUrl: `https://romerobaez.com`,
-    description: `Developer & entrepreneur`,
+    description: `Developer & Entrepeneur`,
     hero: {
-      heading: `Hi! I'm building the future of the internet and the education.`,
-      maxWidth: 652,
+      heading: `Developer, entrepeneur and baker. Obviously not an A.I. (or who knows 👀)`,
+      maxWidth: 900,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/baezor`,
-      },
-      {
         name: `github`,
         url: `https://github.com/baezor`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/this.is.baez`,
       },
       {
         name: `linkedin`,
