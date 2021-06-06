@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://romerobaez.com`,
     description: `Developer & Entrepeneur`,
     hero: {
-      heading: `Developer, entrepeneur and baker. Obviously not an A.I. (or who knows 👀)`,
+      heading: `Developer, entrepreneur and bookworm. I'm not an A.I. (or who knows 👀)`,
       maxWidth: 900,
     },
     social: [

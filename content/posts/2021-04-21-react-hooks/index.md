@@ -1,12 +1,12 @@
 ---
-title: Getting started with React Hooks
+title: How to learn React.js?
 author: Angel Baez
 date: 2021-04-21
-hero: ./images/article-image-1.jpg
+hero: ./images/article-image.jpeg
 excerpt: Notes that I took when I started to learn React hooks.
 ---
 
-Hooks let you use state and other React features withouth writing a class. 
+Advice to learn React.js and JavaScript 
 
 ## How to initialize it
 
