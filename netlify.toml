@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/tv"
+  to = "https://www.facebook.com/MiVecinoLukas/"
+  status = 301
+  force = true
