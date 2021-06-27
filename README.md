@@ -1,5 +1,5 @@
 # This is my website
-My website is made with Gatsby.js
+My website is made with Gatsby.js + Contentful.
 
 ### Develop & Build
 
