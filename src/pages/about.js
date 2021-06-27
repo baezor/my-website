@@ -11,7 +11,7 @@ function AboutPage() {
       <SEO />
       <Section>
         <div style={{ marginTop: "100px" }}>
-          <Headings.H1>This is the about page</Headings.H1>
+          <Headings.h1>This is the about page</Headings.h1>
         </div>
       </Section>
     </Layout>
